@@ -1,5 +1,5 @@
-<h1>akumaru Robsinson</h1>
-
+<h1 align="center">akumaru Robsinson</h1>
+<p align="center">17 y.o. coder from Uzbekistan!</p>
 <h2 align="center">I use.</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
