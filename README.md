@@ -16,3 +16,11 @@
 <div align="center">
 <img src="./assets/tapnisu.jpg" width=150>
 </div>
+
+
+<h2 align="center">Social</a>
+<div align="center" style="display:flex; justify-content: center">
+<p><a href="https://t.me/triistam"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=50></a></p>
+
+<p><img height=50 src="https://wakatime.com/badge/user/ee59dbe4-1024-4a32-b8be-0d86125f6f2f.svg"></p>
+</div>
