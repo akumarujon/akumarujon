@@ -1,4 +1,8 @@
-<h1 align="center">Triistam</h1>
+<p>
+<img src="./assets/bg.jpg">
+</p>
+
+<!-- <h1 align="center">Triistam</h1>
 <p align="center">17 y.o. coder from Uzbekistan!</p>
 <h2 align="center">I use.</h2>
 
@@ -11,7 +15,7 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br> <!-- br goes brrrr -->
+<br> <!-- br goes brrrr
 <h2 align="center">Friend(s)</h2>
 <div align="center">
 <img src="./assets/tapnisu.jpg" width=150>
@@ -23,4 +27,4 @@
 <p><a href="https://t.me/triistam"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=50></a></p>
 
 <p><img height=50 src="https://wakatime.com/badge/user/ee59dbe4-1024-4a32-b8be-0d86125f6f2f.svg"></p>
-</div>
+</div> -->
