@@ -1,5 +1,5 @@
 <p>
-<img src="./assets/bg.jpg">
+<img src="https://i.imgur.com/nDxSgWi.png">
 </p>
 
 <!-- <h1 align="center">Triistam</h1>
