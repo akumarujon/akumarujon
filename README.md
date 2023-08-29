@@ -1,5 +1,5 @@
 <p>
-<img src="https://i.imgur.com/nDxSgWi.png">
+<img src="https://i.imgur.com/03SF1t7.jpg">
 </p>
 
 <!-- <h1 align="center">Triistam</h1>
